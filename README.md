@@ -15,8 +15,6 @@ Mini Project for College ID Card Generation System for Students and Faculty.
   
             static - All the static files used for bootstrapping the front-end can be found here.
   
------THIS WAS A CHANGE MADE USING GIT -------
-
 
 Feel Free to direct your criticisms and queries to me.  
   
